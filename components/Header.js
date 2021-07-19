@@ -1,5 +1,5 @@
-import Link from "next/link";
-import Image from "next/image";
+import Link from 'next/link'
+import Image from 'next/image'
 
 export default function Header() {
   return (
@@ -8,7 +8,7 @@ export default function Header() {
         <Link href="/">
           <a className="flex md:w-1/5 title-font font-medium items-center md:justify-start mb-4 md:mb-0">
             <Image src="/images/logo.png" width={40} height={40} alt="logo" />
-            <span className="ml-3 text-xl">DevSpace</span>
+            <span className="ml-3 text-xl">Blog-Overflow</span>
           </a>
         </Link>
         <nav className="flex felx-wrap md:w-4/5 items-center justify-end text-base md:ml-auto">
@@ -25,5 +25,5 @@ export default function Header() {
         </nav>
       </div>
     </header>
-  );
+  )
 }

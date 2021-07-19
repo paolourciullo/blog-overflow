@@ -1,47 +1,39 @@
 ---
-title: 'JavaScript Performance Tips'
-date: 'May 4, 2021'
-excerpt: 'We will look at 10 simple tips and tricks to increase the speed of your code when writing JS'
-cover_image: '/images/posts/img1.jpg'
+title: 'First Blog Post'
+date: 'July 18, 2021'
+excerpt: 'This is just to splash something up to show my progress.'
+cover_image: '/images/posts/deskjob.jpeg'
 category: 'JavaScript'
-author: 'John Doe'
-author_image: 'https://randomuser.me/api/portraits/men/11.jpg'
+author: 'Paolo Urciullo'
+author_image: '/images/posts/cartoonpic1.png'
 ---
 
 <!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->
 
-Lorem [markdownum](http://insunt.org/inpositaque), et sanguine rutilos dixit
-nigro cornu genus duris linguae. Super hic deus ego adveniens nullumque Venerem
-equis aurem aliisque celare densis dextramque similis **post**: mihi rexerat;
-bis.
+Hello!👋 I started learning to write code in October 2020. Before that point the only things I had ever earned a certification in were soldering/wiring and excel. Now that 8 months have gone by at the time of writing this, I have learned a lot about programming, mostly with JavaScript.[markdownum](http://insunt.org/inpositaque),
 
-1. Scinditur annos
-2. Talia verba
-3. Habet delata villis domui
-4. Geminum viscere deum et utque
+1. There is a place for everyone in tech 👫
+2. It has the potential to change my life drastically for the better 🧬
+3. It has the potential to change the world 🌍
+4. I love doing it 💜
 
-## Magnorum nulla avertit pedem neque monimenta terram
+## I belong here 😏
 
-Quo numquam, nunc [concussaque](http://mox-cunctos.net/), hora effugit mihi,
-pectore. Hinc fausto, circumspicit cadas; virilibus rapui, timidum rorat cuique
-animorum ac! Quem sit. Venit qui, rex sibi tota, peto _fortis ira suis_ dolusque
-simulatque [incipit crudelesque
-pavens](http://www.corpora.com/terrae-oscula.html) spatiosa conlegit oscula
-equam.
+Many people who try to learn this stuff on their own, or with help from the community, are often riddled with different forms of negitivity. Sometimes that can stem from feedback we get as people just starting out. It had an effect on me. I felt those feeling of inadequacy and even sometimes guilt and pain. The more we persevere, though, the easier it gets to thwart those feelings and truly grow as a developer.
 
-## Mensis idem
+## Life 🧬
 
 Caelestia Ganymedes gentis. Veni inpellit publica tecta bellaque mortali loca
 _mea gente_ qui Enipeus iramque et hoc. _Altera Rex vetitum_; hoc magis dolores
 precor nec. Ubi verba, et aras regia, cognoscere vites tempusque expers, heros?
 
-## Mihi puto pallorem
+## The World 🌍
 
 Hac forma, habeo quam et patria, ille tulit volat quamquam vulnus, aere est.
 Ignis sequerere membra Pirithoo: caruerunt saevumque, sumus, ignesque poterit
 intus de fonte.
 
-## Quondam montibus tua spes consilioque nata consilioque
+## Love 💞
 
 Abigitque limite. Ipsa levis extulit munera, litora, ira pavet in morte, **te
 in** quas [vix](http://auxiliumquefando.net/vocibus-cum). Mitis tinxit, modus
