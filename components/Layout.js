@@ -1,6 +1,6 @@
-import Head from "next/head";
-import Header from "./Header";
-import Search from "./Search";
+import Head from 'next/head'
+import Header from './Header'
+import Search from './Search'
 
 export default function Layout({ title, children, keywords, description }) {
   return (
@@ -15,11 +15,11 @@ export default function Layout({ title, children, keywords, description }) {
       <Search />
       <main className="container mx-auto my-7">{children}</main>
     </div>
-  );
+  )
 }
 
 Layout.defaultProps = {
-  title: "Welcome to DevSpace",
-  keywords: "development, coding, programming",
-  description: "The best info and news in development",
-};
+  title: 'Blog Overflow | Welcome',
+  keywords: 'development, coding, programming',
+  description: 'The best info and news in development',
+}
