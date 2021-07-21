@@ -23,9 +23,9 @@ Many people who try to learn this stuff on their own, or with help from the comm
 
 ## Life 🧬
 
-Caelestia Ganymedes gentis. Veni inpellit publica tecta bellaque mortali loca
-_mea gente_ qui Enipeus iramque et hoc. _Altera Rex vetitum_; hoc magis dolores
-precor nec. Ubi verba, et aras regia, cognoscere vites tempusque expers, heros?
+```
+Caelestia Ganymedes gentis. Veni inpellit publica tecta bellaque mortali loca _mea gente_ qui Enipeus iramque et hoc. _Altera Rex vetitum_; hoc magis dolores
+```
 
 ## The World 🌍
 
