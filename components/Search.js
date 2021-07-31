@@ -1,29 +1,29 @@
-import { useState, useEffect } from "react";
-import { FaSearch } from "react-icons/fa";
-import SearchResults from "./SearchResults";
+import { useState, useEffect } from 'react'
+import { FaSearch } from 'react-icons/fa'
+import SearchResults from './SearchResults'
 
 export default function Search() {
-  const [searchTerm, setSearchTerm] = useState("");
-  const [searchResults, setSearchResults] = useState([]);
+  const [searchTerm, setSearchTerm] = useState('')
+  const [searchResults, setSearchResults] = useState([])
 
   useEffect(() => {
     const getResults = async () => {
-      if (searchTerm === "") {
-        setSearchResults([]);
+      if (searchTerm === '') {
+        setSearchResults([])
       } else {
-        const res = await fetch(`/api/search?q=${searchTerm}`);
-        const { results } = await res.json();
-        setSearchResults(results);
+        const res = await fetch(`/api/search?q=${searchTerm}`)
+        const { results } = await res.json()
+        setSearchResults(results)
       }
-    };
+    }
 
-    getResults();
-  }, [searchTerm]);
+    getResults()
+  }, [searchTerm])
 
   return (
-    <div className="relative bg-gray-600 p-4">
+    <div className="relative bg-search-bar p-4">
       <div className="container mx-auto flex items-center justify-content md:justify-end">
-        <div className="relative text-gray-600 w-72">
+        <div className="relative text-search-bar w-72">
           <form>
             <input
               type="search"
@@ -40,5 +40,5 @@ export default function Search() {
       </div>
       <SearchResults results={searchResults} />
     </div>
-  );
+  )
 }

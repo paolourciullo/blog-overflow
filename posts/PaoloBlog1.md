@@ -10,7 +10,7 @@ author_image: '/images/posts/cartoonpic1.png'
 
 <!-- Markdow generator - https://jaspervdj.be/lorem-markdownum/ -->
 
-Hello!👋 I started learning to write code in October 2020. Before that point the only things I had ever earned a certification in were soldering/wiring and excel. Now that 8 months have gone by at the time of writing this, I have learned a lot about programming, mostly with JavaScript.[markdownum](http://insunt.org/inpositaque),
+Hello!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> I started learning to write code in October 2020. Before that point the only things I had ever earned a certification in were soldering/wiring and excel. Now that 8 months have gone by at the time of writing this, I have learned a lot about programming, mostly with JavaScript.[markdownum](http://insunt.org/inpositaque),
 
 1. There is a place for everyone in tech 👫
 2. It has the potential to change my life drastically for the better 🧬
